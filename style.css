@@ -1,0 +1,64 @@
+
+table{
+   width: 800px;
+   height: 300px;
+   margin: 200px auto;
+   font-family: Arial, Helvetica, sans-serif;
+   border-spacing: 10px;
+   font-size: 18px;
+}
+
+table, th, td{
+   border: 1px solid #000;
+   border-collapse: collapse;
+}
+
+.sub-total-costs{
+   padding-left: 35px;
+}
+.second-row, .row-number{
+   padding-left: 8.5px;
+}
+.second-row-name, .third-row-name, .row-name{
+   padding-left: 20px;
+}
+.second-row-car{
+   padding-left: 70px;
+}
+.third-row-moto{
+   padding-left: 50px;
+}
+.row-truck{
+   padding-left: 65px;
+}
+.row-washing{
+   padding-left: 65px;
+}
+.row-repair{
+   padding-left: 65px;
+}
+.second-line{
+   padding-left: 68px;
+}
+.second-line-row, .row-second-cost{
+   padding-left: 60px;
+}
+
+.third-row-status{
+   padding-left: 37px;
+}
+
+.third-row-cost, .row-first-cost{
+   padding-left: 68px;
+}
+.third-row-second-cost{
+   padding-left: 65px;
+}
+.total{
+   padding-left: 220px;
+   font-weight: bolder;
+}
+.total-cost{
+   padding-left: 140px;
+   font-weight: bolder;
+}
